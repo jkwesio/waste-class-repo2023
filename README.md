@@ -3,7 +3,8 @@
 
 ## status
 - [x] Import graph/map data from OpenStreetMap
-- [ ] Add population data to graph
-- [ ] Add waste generation data to graph
-- [ ] Initialize neural network architecture in PyGeometric
-- [ ] Run model and assess performance through loss (MSE?)
+- [x] Add population data to graph
+- [x] Add waste generation data to graph
+- [x] Initialize ~~neural network architecture in PyGeometric~~ ML model
+- [x] Run model and assess performance through loss (MSE?)
+- [ ] Update model architecture to improve performance
